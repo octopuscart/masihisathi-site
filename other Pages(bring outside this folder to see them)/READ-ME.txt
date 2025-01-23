@@ -1,6 +1,6 @@
   =>  Template Name    : Matrimo | Wedding HTML5 Template
 
-  =>  Template Link    : https://rn53themes.net/themes/matrimo/index.html
+  =>  Template Link    : https://rn53themes.net/themes/matrimo/index.php
 
   =>  Template Author  : RN53 Themes
 
