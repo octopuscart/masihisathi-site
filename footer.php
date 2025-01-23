@@ -45,7 +45,8 @@
     <div class="cr">
         <div class="container">
             <div class="row">
-                <p>Copyright © <span id="cry">2025</span> <a href="index.php" target="_blank">MasihiSathi.com</a> All
+                <p>Copyright © <span ><?php echo date("Y") ?></span> <a href="index.php"
+                        target="_blank">MasihiSathi.com</a> All
                     rights reserved.</p>
             </div>
         </div>
