@@ -36,7 +36,7 @@ include("header.php");
                             <h2>Pay-As-You-Go Plan</h2>
                             <p>Connecting hearts, one click at a time for just </p>
                             <!-- <a href="index.php" class="cta">Get Started</a> -->
-                            <span class="pri-cou"><b>25</b>/per connection</span>
+                            <span class="pri-cou"><b>₹25</b>/per connection</span>
                             <ol>
                                 <li><i class="fa fa-check" aria-hidden="true"></i>View verified profiles of Christian
                                     singles.</li>

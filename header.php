@@ -42,6 +42,7 @@ $footermenuItems = $menuItems + [
 
     'Privacy Policy' => 'privacy-policy.php',
     'Terms & Conditions' => 'terms-conditions.php',
+    'Refund & Cancellation' => 'refund-cancellation.php',
 ];
 ?>
 
@@ -177,7 +178,7 @@ $footermenuItems = $menuItems + [
                     <div class="bl" style="width: 100%;">
                         <ul>
                             <?php
-                            foreach ($footermenuItems as $title => $url) {
+                            foreach ($menuItems as $title => $url) {
                                 echo "<li><a href=\"$url\">$title</a></li>";
                             }
                             ?>
@@ -249,22 +250,3 @@ $footermenuItems = $menuItems + [
     </div>
     </div>
     <!-- END MOBILE MENU POPUP -->
-
-    <!-- MOBILE USER PROFILE MENU POPUP 
-    <div class="mob-me-all dashbord_menu">
-        <div class="mob-me-clo"><img src="images/icon/close.svg" alt=""></div>
-        <div class="mv-bus">
-            <div class="head-pro">
-                <img src="images/profiles/1.jpg" alt="" loading="lazy">
-                <b>user profile</b><br>
-                <h4>Ashley emyy</h4>
-            </div>
-            <ul>
-                <li><a href="login.html">Login</a></li>
-                <li><a href="sign-up.html">Sign-up</a></li>
-                <li><a href="plans.php">Pricing plans</a></li>
-                <li><a href="all-profiles.html">Browse profiles</a></li>
-            </ul>
-        </div>
-    </div-->
-    <!-- END USER PROFILE MENU POPUP -->

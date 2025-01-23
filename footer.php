@@ -15,12 +15,11 @@
             <div class="col-md-4">
                 <h4>HELP &amp; SUPPORT</h4>
                 <ul>
-                    <li><a href="about.html">About company</a>
-                    </li>
-                    <li><a href="contact.html">Contact us</a>
-                    </li>
-                    <li><a href="faq.html">FAQs</a>
-                    </li>
+                    <?php
+                    foreach ($footermenuItems as $title => $url) {
+                        echo "<li><a href=\"$url\">$title</a></li>";
+                    }
+                    ?>
                 </ul>
             </div>
             <div class="col-md-4 fot-soc">
