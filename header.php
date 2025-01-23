@@ -8,10 +8,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#f6af04">
-    <meta name="description" content="">
-    <meta name="keyword" content="">
+    <meta name="description" content="MasihiSathi is a unique matrimonial platform designed exclusively for Christians">
+    <meta name="keywords" content="Matrimony, Matrimonial, Marriage, Wedding, Matchmaking, Bride, Groom, Matrimony Services, Matrimonial Site, Online Matrimony, Christian Matrimony, Christian Marriage, Christian Wedding, Christian Matchmaking, Trusted Matrimony, Premium Matrimony, Matrimony Website, Marriage Services, Matrimonial Services, Matrimony Portal, Matrimony Platform">
     <!--== FAV ICON(BROWSER TAB ICON) ==-->
+    <meta name="author" content="MasihiSathi">
 
+    <!-- Open Graph Metadata -->
+    <meta property="og:title" content="MasihiSathi - Christian Matrimony Platform">
+    <meta property="og:description" content="MasihiSathi is a unique matrimonial platform designed exclusively for Christians">
+    <meta property="og:image" content="https://www.masihisathi.com/images/MS images/homelogo.png">
+    <meta property="og:url" content="https://www.masihisathi.com">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="MasihiSathi - Christian Matrimony Platform">
+    <meta name="twitter:description" content="MasihiSathi is a unique matrimonial platform designed exclusively for Christians">
+    <meta name="twitter:image" content="https://www.masihisathi.com/images/MS images/homelogo.png">
+    <meta name="twitter:site" content="@MasihiSathi">
     <link rel="shortcut icon" href="images/MS images/homelogo.png" type="image/x-icon">
     <!--== CSS FILES ==-->
     <link rel="stylesheet" href="css/bootstrap.css">
