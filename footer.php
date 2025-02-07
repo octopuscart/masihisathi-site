@@ -10,7 +10,7 @@
                 <h4>Get In Touch</h4>
                 <p>Address: Nagpur, Maharashtra, India</p>
                 <p>Phone: <a href="tel:+917904462944">+91 9960877313</a></p>
-                <p>Email: <a href="mailto:info@example.com">hello@masihisathi.com</a></p>
+                <p>Email: <a href="mailto:hello@masihisathi.com">hello@masihisathi.com</a></p>
             </div>
             <div class="col-md-4">
                 <h4>HELP &amp; SUPPORT</h4>
