@@ -115,7 +115,7 @@ $footermenuItems = $menuItems + [
                 <li><a href="#!"><i class="fa fa-phone" aria-hidden="true"></i>+919960877313</a></li>
                 <li><a href="https://wa.link/2q4ca7"><i class="fa fa-whatsapp"
                             aria-hidden="true"></i>+919960877313</a></li-->
-                <li><a href="#!"><i class="fa fa-envelope-o" aria-hidden="true"></i>evansfrancis333@gmail.com</a></li>
+                <li><a href="#!"><i class="fa fa-envelope-o" aria-hidden="true"></i>hello@masihisathi.com</a></li>
                 <li><a href="#!"><i class="fa fa-map-marker" aria-hidden="true"></i>Nagpur, Maharashtra, India</a></li>
             </ul>
             <div class="menu-pop-help">
