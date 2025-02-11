@@ -21,7 +21,7 @@
 <section>
     <div class="ab-sec2">
         <div class="container">
-
+            <p>This website is owned by Evan francis</p>
             <p>Welcome to our Terms and Conditions page. These terms and conditions outline the rules and regulations
                 for
                 the use of our website.</p>

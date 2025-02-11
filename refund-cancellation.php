@@ -35,6 +35,9 @@
             <h2>Refunds</h2>
             <p>Payments made for connecting with profiles are non-refundable once interaction begins. Refunds will only
                 be considered in cases of technical errors or issues attributable to the platform.</p>
+                <p>
+                If refund is approved in any circumstances then it will be credited to the original payment method in 7days.
+                </p>
             <hr />
 
         </div>
