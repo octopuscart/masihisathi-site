@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row foot-supp">
             <h2><span>Free support:</span> +91 9960877313 &nbsp;&nbsp;|&nbsp;&nbsp; <span>Email:</span>
-                support@masihisathi.com</h2>
+                hello@masihisathi.com</h2>
         </div>
         <div class="row wed-foot-link wed-foot-link-1">
             <div class="col-md-4">

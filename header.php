@@ -90,8 +90,8 @@ $footermenuItems = $menuItems + [
                     <ul>
                         <li><a href="tel:+91 9960877313"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;+91
                                 9960877313 </a></li>
-                        <li><a href="mailto:support@masihisathi.com"><i class="fa fa-envelope-o"
-                                    aria-hidden="true"></i>&nbsp; support@masihisathi.com</a></li>
+                        <li><a href="mailto:hello@masihisathi.com"><i class="fa fa-envelope-o"
+                                    aria-hidden="true"></i>&nbsp; hello@masihisathi.com</a></li>
                         <li><a href="#!"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                         <li><a href="#!"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                         <li><a href="#https://wa.link/2q4ca7"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>

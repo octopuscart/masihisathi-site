@@ -33,7 +33,7 @@ include("header.php");
                                 <h3>Our office</h3>
                                 <p>Most Trusted and premium Matrimony Service in the World</p>
                                 <span><i class="fa fa-phone" aria-hidden="true"></i> +91 9960877313 </span><br>
-                                <span><i class="fa fa-envelope-o" aria-hidden="true"></i> support@masihisathi.com </span><br>
+                                <span><i class="fa fa-envelope-o" aria-hidden="true"></i> hello@masihisathi.com </span><br>
                                 <span><i class="fa fa-map-marker" aria-hidden="true"></i> Nagpur, Maharashtra, India</span>
                             </div>
                         </li>

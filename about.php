@@ -101,7 +101,7 @@ include("header.php");
                                 <li>
                                     <div>
                                         <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                        <h4>Get Support <em>support@masihisathi.com</em></h4>
+                                        <h4>Get Support <em>hello@masihisathi.com</em></h4>
                                     </div>
                                 </li>
                             </ul>
