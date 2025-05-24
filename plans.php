@@ -24,10 +24,10 @@ include("header.php");
                 <ul>
                     <li>
                         <div class="pri-box">
-                            <h2>Free Registeration</h2>
+                            <!-- <h2>Free Registeration</h2>
                             <p> </p><BR>
                             <a href="index.php" class="cta">Join Now</a>
-                            <span class="pri-cou"><b></b></span>
+                            <span class="pri-cou"><b></b></span> -->
                         </div>
                     </li>
                     <li>
@@ -51,10 +51,10 @@ include("header.php");
                     </li>
                     <li>
                         <div class="pri-box">
-                            <h2>What Makes Us Unique?</h2>
+                            <!-- <h2>What Makes Us Unique?</h2>
                             <p></p>
                             <a href="about.html" class="cta">Read More</a>
-                            <span class="pri-cou"><b></b></span>
+                            <span class="pri-cou"><b></b></span> -->
                       
                         </div>
                     </li>
