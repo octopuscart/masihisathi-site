@@ -222,6 +222,28 @@ include("header.php");
 
 <!-- COUNTS START -->
 
+<!-- App Download Section -->
+<section>
+    <div class="container">
+        <div class="row" style="align-items: center; justify-content: center;">
+            <div class="col-md-8 text-center">
+                <h2>Get the MasihiSathi App</h2>
+                <p>Download our app for a seamless matrimony experience on your mobile device.</p>
+                 <a href="#" target="_blank">
+                    <img src="images/downloadapp.svg" alt="Get it on Google Play" style="height:160px;margin:10px;">
+                </a>
+                <br/>
+                <a href="https://play.google.com/store/apps/details?id=com.masihisathi.com" target="_blank">
+                    <img src="images/en_badge_web_generic.png" alt="Get it on Google Play" style="height:60px;margin:10px;">
+                </a>
+                <a href="https://apps.apple.com/in/app/masihisathi/id6744860529" target="_blank">
+                    <img src="images/download-on-the-app-store.svg" alt="Download on the App Store" style="height:60px;margin:10px;">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END APP DOWNLOAD SECTION -->
 <!-- END -->
 
 <!-- MOMENTS START -->
