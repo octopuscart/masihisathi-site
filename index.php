@@ -376,7 +376,7 @@ include("header.php");
                         <p>Our platform brings people together like never before.
                             Explore personalized recommendations and start your journey to finding your ideal match
                             today</p>
-                        <a href="plans.html" class="cta-3">Register Now</a>
+                        <a href="https://onelink.to/djnmqp" class="cta-3">Download App Now</a>
                         <a href="contact.html" class="cta-4">Help & Support</a>
                     </div>
                 </div>
