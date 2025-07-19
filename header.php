@@ -45,6 +45,7 @@
 $menuItems = [
     'Home' => 'index.php',
     'Pricing plans' => 'plans.php',
+    "Our Products & Services"=> 'products-services.php',
     'Contact' => 'contact.php',
     'About' => 'about.php',
     'FAQ' => 'faq.php',
